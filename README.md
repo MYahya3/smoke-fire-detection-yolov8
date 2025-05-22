@@ -26,8 +26,9 @@ Install the required dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Project Structure
+
 ```
 ├── model_weights/
 │   └── best.pt              # YOLOv8 trained weights
