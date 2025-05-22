@@ -28,7 +28,7 @@ Install the required dependencies using:
 pip install -r requirements.txt
 
 ## Project Structure
-```bash
+```
 ├── model_weights/
 │   └── best.pt              # YOLOv8 trained weights
 ├── utils/
@@ -39,6 +39,7 @@ pip install -r requirements.txt
 │   └── output_video.mp4     # Output video with annotations
 ├── detector.py              # Main detection script
 └── README.md                # This file
+
 ```
 
 ## How to Run
